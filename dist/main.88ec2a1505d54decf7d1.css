@@ -1,0 +1,13 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css ***!
+  \*****************************************************************/
+div{
+    width: 100px;
+    height: 100px;
+    background-image:url(64553addd595f5265b2b.png) ;
+    background-size: cover;
+    color: white;
+    font-size: 50px;
+}
+
+/*# sourceMappingURL=main.88ec2a1505d54decf7d1.css.map*/
